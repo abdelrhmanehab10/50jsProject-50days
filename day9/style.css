@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+body{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgb(95, 31, 155);
+    color: #fff;
+    font-size: 24px;
+    padding: 1.5rem 3rem;
+    margin: 0 10px;
+}
