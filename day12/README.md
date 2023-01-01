@@ -1,5 +1,5 @@
 # FAQ
-<h6Frequently Asked Questions and it's answer. I use HTML, CSS, Javascript to build this project</h6>
+<h6>Frequently Asked Questions and it's answer. I use HTML, CSS, Javascript to build this project</h6>
 <p> 12th project of "50 project / 50 days" challange.</p>
 <span> Please feel free to give me your feedback</span>
 
