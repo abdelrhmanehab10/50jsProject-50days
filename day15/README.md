@@ -1,6 +1,8 @@
-#Expanding-cards
-Social media followers increment counter..
-15 project of "50 project / 50 days" challange.
+# Incrementing Counter
+<h6>Social media followers increment counter. I use HTML, CSS, Javascript to build this project</h6>
+<p> 15th project of "50 project / 50 days" challange.</p>
+<span> Please feel free to give me your feedback</span>
 
-Please feel free to give me your feedback
-LinkedIn : https://www.linkedin.com/in/abdelrahman-ehab-87261a244/
+
+
+<span>LinkedIn : https://www.linkedin.com/in/abdelrahman-ehab-87261a244/ <span>
